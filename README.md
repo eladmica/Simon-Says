@@ -1,5 +1,5 @@
 # Simon Says
-### For a full project description, please visit:<br />http://eladmichaeli.com/personal-projects/simon-says.html
+### For a full project description, please visit:<br />http://eladmichaeli.com/projects/simon-says
 
 ![Simon Says Logo](logo.png?raw=true)
 
